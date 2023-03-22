@@ -1,3 +1,8 @@
+# ccab-pk
+laravel ride-hailing web app like Uber and Careem
+
+The CCABPK project is a large-scale ride-hailing website built using Laravel, and I had the privilege of contributing to it. My role in the project primarily involved addressing database errors, resolving Livewire issues, and making front-end changes to the Services pages, including updating forms with new fields and syncing them with the database. While I do not claim ownership of the entire codebase, I have provided the complete code files to showcase my specific contributions.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
